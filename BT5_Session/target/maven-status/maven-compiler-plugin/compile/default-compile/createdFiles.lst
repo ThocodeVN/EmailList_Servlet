@@ -1,0 +1,7 @@
+controller\CDServlet.class
+Database\LineCD.class
+Database\CD.class
+com\mycompany\bt5_session\JakartaRestConfiguration.class
+Database\ListCD.class
+com\mycompany\bt5_session\resources\JakartaEE10Resource.class
+Database\Cart.class
